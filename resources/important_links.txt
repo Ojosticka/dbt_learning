@@ -1,0 +1,3 @@
+dbt_slides_link: https://docs.google.com/presentation/d/1ZFU-bPVnF7n1-5h9wWws5_FUHpGnM7ev0CS42IGwMwM/edit?slide=id.g1144eb7f80d_0_63#slide=id.g1144eb7f80d_0_63
+dbt_bootcamp_readme: https://github.com/nordquant/complete-dbt-bootcamp-zero-to-hero/blob/main/_course_resources/course-resources.md
+dbt_course_setup_process: https://dbt-course-setup.onrender.com/
